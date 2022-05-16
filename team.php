@@ -45,11 +45,9 @@
 								</li>
 								<li><a id="designer" class="btn btn-default" href="#" data-filter=".designer">Designers</a>
 								</li>
-								<li><a id="alumni" class="btn btn-default" href="#" data-filter=".alum">Alumni</a>
-								</li>
 							</ul>
 							<div class=" portfolio-items" style="z-index:1;">
-							Team Members' details 
+							<!--Team Members' details -->
 								 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership"> 
 									<div class="portfolio-wrapper">
 										<div class="staff">
@@ -103,7 +101,7 @@
 										</div>
 									</div>
 								</div>
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership webd ">
+								<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/mansimarkaur.jpg" height="250" width="100%" alt="foto">
@@ -120,8 +118,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership contentc  ">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership contentc  ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/navdha.jpg" height="250" width="100%" alt="foto">
@@ -138,8 +136,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership designer ">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership designer ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/ayushgarg.jpg" height="250" width="100%" alt="foto">
@@ -156,9 +154,9 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
+								</div> 
 																			
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+								 <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/apoorv.jpg" height="250" width="100%" alt="foto">
@@ -176,8 +174,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/shwetank.jpg" height="auto" width="100%" alt="foto">
@@ -194,8 +192,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/aman.jpg" height="262" width="100%" alt="foto">
@@ -212,8 +210,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+								</div>
+								 <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/subhkaran.jpg" height="250" width="100%" alt="foto">
@@ -231,8 +229,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!--<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/gautamks.jpg" height="200" width="100%" alt="foto">
@@ -249,8 +247,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/arpit.jpg" height="250" width="100%" alt="foto">
@@ -267,8 +265,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!--<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_alumni img-responsive" src="assets/img/team/jasdeep.jpg" height="250" width="100%" alt="foto">
@@ -285,8 +283,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/mayank.jpg" height="262px" width="262px" alt="foto">
@@ -303,8 +301,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/ayushg.jpg" height="250" width="100%" alt="foto">
@@ -321,8 +319,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+								</div> 
+								 <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/ksitij.jpg" height="250" width="100%" alt="foto">
@@ -339,8 +337,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_alumni  img-responsive" data-original="assets/img/team/abhisar.jpg" height="250" width="100%" alt="foto">
@@ -357,8 +355,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/isha.jpg" height="250" width="100%" alt="foto">
@@ -375,8 +373,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
+								</div> 
+								 <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide alum ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_alumni img-responsive" data-original="assets/img/team/jaswin.jpg" height="250" width="100%" alt="foto">
@@ -393,8 +391,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/prabha.jpg" height="250" width="100%" alt="foto">
@@ -411,8 +409,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/arko.jpg" height="250" width="100%" alt="foto">
@@ -429,8 +427,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/harshv.jpg" height="250" width="100%" alt="foto">
@@ -447,9 +445,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-																																
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
+								</div> 																							
+								 <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/shresth.jpg" height="250" width="100%" alt="foto">
@@ -466,8 +463,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_content img-responsive" data-original="assets/img/team/kanishka.jpg" height="250" width="100%" alt="foto">
@@ -484,9 +481,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
+								</div>
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/prerna.jpg" height="250" width="100%" alt="foto">
@@ -503,8 +499,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-                                <!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
+								</div> 
+                                 <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/anshul.jpg" height="250" width="100%" alt="foto">
@@ -521,8 +517,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/aastha.jpg" height="250" width="100%" alt="foto">
@@ -539,8 +535,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/jeevesh.jpg" height="250" width="100%" alt="foto">
@@ -557,8 +553,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/jyoti.jpg" height="250" width="100%" alt="foto">
@@ -575,8 +571,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/nilay.jpg" height="250" width="100%" alt="foto">
@@ -593,8 +589,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/rishab.jpg" height="250" width="100%" alt="foto">
@@ -611,8 +607,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="lazy_webdev img-responsive" data-original="assets/img/team/naman.jpg" height="250" width="100%" alt="foto">
@@ -629,7 +625,7 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
+								</div> 
 								<!-- <div class="col-xs-6 col-sm-4 col-md-3  portfolio-item hide contentc webd">
 									<div class="portfolio-wrapper">
 										<div class="staff">
