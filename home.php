@@ -92,17 +92,17 @@
                                             <h2 class="find-course__title"><i class="icon stroke icon-Search"></i>SEARCH FOR NOTES</h2>
                                             <form class="find-course__form" action="NotesSearch.php" method="GET">
                                                 <div class="form-group">
-                                                    <?php /* if(isset($_GET[ 'error'])) { ?>
+                                                    <?php  if(isset($_GET[ 'error'])) { ?>
                                                     <div class="alert alert-danger"> <strong>No query!</strong> Please type in a query to search. </div>
-                                                        <?php } */ ?> 
+                                                        <?php }  ?> 
                                                     <input class="form-control notesearch" type="text" name="query" placeholder="Keyword...">
                                                     <select name="branch" class="form-control notesearch"> 
                                                         <option value="cse">CSE</option>
-                                                        <option value="it">IT</option>
+                                                        <!--<option value="it">IT</option>
                                                         <option value="ece">ECE</option>
                                                         <option value="ee">EE</option>
                                                         <option value="mech">Mech</option>
-                                                        <option value="civil">Civil</option>
+                                                        <option value="civil">Civil</option>-->
                                                     </select>
                                                     <select name="sem" class="form-control notesearch">
                                                         <option value="1">1st Semester</option>

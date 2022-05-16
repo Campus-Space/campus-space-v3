@@ -15,31 +15,27 @@ function GetScore($content, $query, $scoreAddition = 10) {
 
 function getXMLData() {
 	if (isset($_GET["branch"])) $branch = $_GET["branch"];
-	else $branch = "ice"; //most students in ice, so most probable.
-	/*if ($branch == "coe") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_228_news_list.xml';
-	else if ($branch == "it") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_231_news_list.xml';
+	else $branch = "cse"; //most students in ice, so most probable.
+	if ($branch == "cse") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_228_news_list.xml';
+	/*else if ($branch == "it") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_231_news_list.xml';
 	else if ($branch == "ece") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_229_news_list.xml';
 	else if ($branch == "ice") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_230_news_list.xml';
 	else if ($branch == "mpae") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_232_news_list.xml';
-	else if ($branch == "bt") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_233_news_list.xml';
-	else {
-		$xmllink = 'http://test.collegespace.in/pad-notes/flashmo_230_news_list.xml';
-		$branch = "ice";
-	}*/
+	else if ($branch == "bt") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_233_news_list.xml';*/
 	$doc = new DOMDocument();
-	//$doc - > load($xmllink);
+	$doc -> load($xmllink);
 	return $doc;
 }
 
 function getNotesList($doc, $semNum) {
-	//$dump = $doc - > textContent;
+	$dump = $doc -> textContent;
 	$sem1 = explode("Semester ".$semNum.
 		" </span>", $dump);
 	$semDump = $sem1[1];
 	$paraDump = explode("<p align = 'justify'>", $semDump);
 	$aDump = explode("</p>", $paraDump[1])[0];
 	$alist = explode('</a>', $aDump);
-	//print_r($alist);
+	print_r($alist);
 	$list = array();
 	foreach($alist as $a) {
 		$a = trim($a);
@@ -49,7 +45,7 @@ function getNotesList($doc, $semNum) {
 			$link = explode("'", $ahref)[1];
 			$name = explode("<", explode(">", $ahref)[1])[0];
 			$list[$name] = $link;
-			//$axml = new SimpleXMLElement($ahref);
+			$axml = new SimpleXMLElement($ahref);
 		}
 	}
 	return $list;
@@ -92,8 +88,8 @@ if (isset($_GET['query'])) {
 				<div id="search-results">
 					<div class="list-group" id="search-item">
 						<?php if($flag !=0 ) { if($flag==1 ) { foreach($searchResult as $name=> $link) { ?>
-						<!-- <a href="<?php echo " http://test.collegespace.in " . $link; ?>" class="list-group-item">
-							<h4 class="list-group-item-heading"><?php echo $name; ?></h4> </a> -->
+						<a href="<?php echo " http://test.collegespace.in " . $link; ?>" class="list-group-item">
+							<h4 class="list-group-item-heading"><?php echo $name; ?></h4> </a>
 						<?php } } else { ?>
 						<a href="#" class="list-group-item">
 							<h4 class="list-group-item-heading">No results.</h4>
