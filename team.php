@@ -100,7 +100,7 @@
 									<div class="modal-body">
 										<p><b>Back-end Developer</b>
 										</p>
-										<p>Founder and Lead Developer of CollegeSpace. Technology is my way of Life. I'm currently pursuing my undergraduate degree in Computer Science Engineering at Sikkim Manipal Institute of Technology. I am an ardent follower of Hollywood. I did a 3 month internship at GitHub Externship.</p>
+										<p>Founder and Lead Developer of CollegeSpace. Technology is my way of Life. I'm currently pursuing my undergraduate degree in Computer Science Engineering at Sikkim Manipal Institute of Technology. I have been a GitHub Extern & am currently an incoming Research Intern in IIT Delhi.</p>
 									</div>
 									<div class="modal-footer">
 										<ul class="social-links list-unstyled">
