@@ -579,7 +579,7 @@
 							</script>
 							<div id="myModal4" class="modal" style="z-index:100;">
 								<!-- Modal content -->
-								<!-- <div class="modal-content">
+								 <div class="modal-content">
 									<div class="modal-header"> <span class="close 4">×</span>
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/deepika.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Deepika Naryani </h2> </div>
@@ -601,7 +601,7 @@
 											</li>
 										</ul>
 									</div>
-								</div> -->
+								</div>
 							</div>
 							<script>
 								var modal4 = document.getElementById('myModal4');
