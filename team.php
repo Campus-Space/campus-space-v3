@@ -40,7 +40,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-6 portfolio-item leadership">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="img-responsive" src="assets/img/team/mansimarkaur.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/rishabh.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn1" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -58,7 +58,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-6 portfolio-item leadership">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="img-responsive" src="assets/img/team/navdha.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/saifus.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn2" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -76,7 +76,7 @@
 								<div class="col-xs-6 col-sm-4 col-md-6 portfolio-item leadership">
 									<div class="portfolio-wrapper">
 										<div class="staff">
-											<div class="staff__media"><img class="img-responsive" src="assets/img/team/ayushgarg.jpg" height="250" width="100%" alt="foto">
+											<div class="staff__media"><img class="img-responsive" src="assets/img/team/kaushal.jpg" height="250" width="100%" alt="foto">
 												<div class="staff__hover">
 													<a id="myBtn3" class="btn btn-primary btn-effect">
 														<center>VIEW PROFILE</center>
@@ -95,20 +95,20 @@
 								<!-- Modal content -->
 								 <div class="modal-content">
 									<div class="modal-header"> <span class="close 47">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/tushar.jpg" height="auto" width="100" alt="foto" align="middle">
-										<h2> Rishab Chauhan </h2> </div>
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/rishabh.jpg" height="auto" width="100" alt="foto" align="middle">
+										<h2> Rishabh Chauhan </h2> </div>
 									<div class="modal-body">
 										<p><b>Back-end Developer</b>
 										</p>
-										<p>Co-Founder and Lead Developer of CollegeSpace. Technology is my way of Life. I may have a degree in Instrumentation but Computers are my passion. I am an ardent follower of Hollywood and an amateur Gamer. During college, I did a 2 month internship at Accenture and Sify. Post college I joined Sapient and after a successful stint spanning two years, I recently joined Bharti Airtel as an Assistant Manager (Backend Development).</p>
+										<p>Founder and Lead Developer of CollegeSpace. Technology is my way of Life. I'm currently pursuing my undergraduate degree in Computer Science Engineering are my passion. I am an ardent follower of Hollywood. I did a 3 month internship at GitHub Externship.</p>
 									</div>
 									<div class="modal-footer">
 										<ul class="social-links list-unstyled">
 											<li>
-												<a class="icon fa fa-insta" href="https://www.instagram.com/rishiiii_99/"></a>
+												<a class="icon fa fa-insta" target="_blank" href="https://www.instagram.com/rishiiii_99/"></a>
 											</li>
 											<li>
-												<a class="icon fa fa-linkedin" href="https://www.linkedin.com/in/rishabh-chauhan-rc/"></a>
+												<a class="icon fa fa-linkedin" target="_blank" href="https://www.linkedin.com/in/rishabh-chauhan-rc/"></a>
 											</li>
 										</ul>
 									</div>
@@ -139,20 +139,18 @@
 								<!-- Modal content -->
 								 <div class="modal-content">
 									<div class="modal-header"> <span class="close 46">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/apoorv.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/saifus.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Syed Saifus Zoha </h2> </div>
 									<div class="modal-body">
-										<p><b> 2013-2017</b>
-										</p>
 										<p><b>Content Collector</b> </p>
 									</div>
 									<div class="modal-footer">
 										<ul class="social-links list-unstyled">
 											<li>
-												<a class="icon fa fa-instagram" href="https://www.instagram.com/s_saifus_/"></a>
+												<a class="icon fa fa-instagram" target="_blank" href="https://www.instagram.com/s_saifus_/"></a>
 											</li>
 											<li>
-												<a class="icon fa fa-linkedin" href="https://www.linkedin.com/in/syedsaifuszoha/"></a>
+												<a class="icon fa fa-linkedin" target="_blank" href="https://www.linkedin.com/in/syedsaifuszoha/"></a>
 											</li>
 										</ul>
 									</div>
@@ -186,17 +184,15 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/kaushal.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Kaushal Swami </h2> </div>
 									<div class="modal-body">
-										<p><b> 2013-2017</b>
-										</p>
-										<p>I'm currently pursuing my undergraduate degree in Information Technology from NSIT. In my fourth year now, CollegeSpace has been deeply integral to my personal & professional growth, also teaching me how to work better in a team. I'm also an avid drummer, a keen footballer & an ardent Liverpool FC fan! </p>
+										<p>Co-Founder and Developer of CollegeSpace. Technology is my way of Life. I'm currently pursuing my undergraduate degree in Computer Science Engineering are my passion. I am an ardent follower of Hollywood. I did a 1 month summer reseach internship at MAHE.</p>
 									</div>
 									<div class="modal-footer">
 										<ul class="social-links list-unstyled">
 											<li>
-												<a class="icon fa fa-instagram" href="https://www.instagram.com/kaushal.swami/"></a>
+												<a class="icon fa fa-instagram" target="_blank" href="https://www.instagram.com/kaushal.swami/"></a>
 											</li>
 											<li>
-												<a class="icon fa fa-linkedin" href="https://www.linkedin.com/in/kaushal-swami/"></a>
+												<a class="icon fa fa-linkedin" target="_blank" href="https://www.linkedin.com/in/kaushal-swami/"></a>
 											</li>
 										</ul>
 									</div>
