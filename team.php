@@ -37,7 +37,7 @@
 							</ul>
 							<div class=" portfolio-items" style="z-index:1;">
 							<!--Team Members' details -->
-								<div class="col-xs-6 col-sm-4 col-md-4 portfolio-item leadership">
+								<div class="col-xs-6 col-sm-4 col-md-6 portfolio-item leadership">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/mansimarkaur.jpg" height="250" width="100%" alt="foto">
@@ -48,14 +48,14 @@
 												</div>
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
-												<h3 class="staff__title">Rishab Chauhan</h3>
-												<div class="staff__categories"><br>BACK-END DEVELOPER</b>
+												<h3 class="staff__title">Rishabh Chauhan</h3>
+												<div class="staff__categories"><b>BACK-END DEVELOPER</b>
 												</div>
 											</div>
 										</div>
 									</div>
 								</div> 
-								<div class="col-xs-6 col-sm-4 col-md-4 portfolio-item leadership">
+								<div class="col-xs-6 col-sm-4 col-md-6 portfolio-item leadership">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/navdha.jpg" height="250" width="100%" alt="foto">
@@ -73,7 +73,7 @@
 										</div>
 									</div>
 								</div> 
-								<div class="col-xs-6 col-sm-4 col-md-4 portfolio-item leadership">
+								<div class="col-xs-6 col-sm-4 col-md-6 portfolio-item leadership">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/ayushgarg.jpg" height="250" width="100%" alt="foto">
@@ -85,7 +85,7 @@
 											</div>
 											<div class="staff__inner staff__inner_mod-a">
 												<h3 class="staff__title">Kaushal Swami</h3>
-												<div class="staff__categories"><b>FRONT-END DEVELOPER<br> </br></b>
+												<div class="staff__categories"><b>FRONT-END DEVELOPER</b>
 												</div>
 											</div>
 										</div>
@@ -96,7 +96,7 @@
 								 <div class="modal-content">
 									<div class="modal-header"> <span class="close 47">×</span>
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/tushar.jpg" height="auto" width="100" alt="foto" align="middle">
-										<h2>Rishab Chauhan</h2> </div>
+										<h2> Rishab Chauhan </h2> </div>
 									<div class="modal-body">
 										<p><b>Back-end Developer</b>
 										</p>
@@ -105,10 +105,10 @@
 									<div class="modal-footer">
 										<ul class="social-links list-unstyled">
 											<li>
-												<a class="icon fa fa-facebook" href="https://www.facebook.com/tushar.gupta.9828"></a>
+												<a class="icon fa fa-insta" href="https://www.instagram.com/rishiiii_99/"></a>
 											</li>
 											<li>
-												<a class="icon fa fa-linkedin" href="https://www.linkedin.com/in/tushar-gupta-a9721611a"></a>
+												<a class="icon fa fa-linkedin" href="https://www.linkedin.com/in/rishabh-chauhan-rc/"></a>
 											</li>
 										</ul>
 									</div>
@@ -149,13 +149,10 @@
 									<div class="modal-footer">
 										<ul class="social-links list-unstyled">
 											<li>
-												<a class="icon fa fa-facebook" href=" https://www.facebook.com/apoorv.gupta.3701 "></a>
+												<a class="icon fa fa-instagram" href="https://www.instagram.com/s_saifus_/"></a>
 											</li>
 											<li>
-												<a class="icon fa fa-google-plus" href=" https://plus.google.com/u/0/113089577561642051777 "></a>
-											</li>
-											<li>
-												<a class="icon fa fa-linkedin" href=" https://in.linkedin.com/in/apoorv-gupta-3a8561105 "></a>
+												<a class="icon fa fa-linkedin" href="https://www.linkedin.com/in/syedsaifuszoha/"></a>
 											</li>
 										</ul>
 									</div>
@@ -186,7 +183,7 @@
 								<!-- Modal content -->
 								<div class="modal-content">
 									<div class="modal-header"> <span class="close 21">×</span>
-										<div class="img"></div><img class="img-responsive" src="assets/img/team/shwetank.jpg" height="100" width="100" alt="foto" align="middle">
+										<div class="img"></div><img class="img-responsive" src="assets/img/team/kaushal.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Kaushal Swami </h2> </div>
 									<div class="modal-body">
 										<p><b> 2013-2017</b>
@@ -196,13 +193,10 @@
 									<div class="modal-footer">
 										<ul class="social-links list-unstyled">
 											<li>
-												<a class="icon fa fa-facebook" href=" https://www.facebook.com/shwetank95 "></a>
+												<a class="icon fa fa-instagram" href="https://www.instagram.com/kaushal.swami/"></a>
 											</li>
 											<li>
-												<a class="icon fa fa-twitter" href=" https://twitter.com/shw3tank "></a>
-											</li>
-											<li>
-												<a class="icon fa fa-linkedin" href=" https://in.linkedin.com/in/shwetank-pandey-079609a2 "></a>
+												<a class="icon fa fa-linkedin" href="https://www.linkedin.com/in/kaushal-swami/"></a>
 											</li>
 										</ul>
 									</div>
