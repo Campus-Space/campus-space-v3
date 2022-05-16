@@ -32,12 +32,12 @@
 					<div class="container-fluid">
 						<div class="posts-wrap">
 							<ul class="portfolio-filter text-center">
-								<li><a id="leadership" class="btn btn-default active" href="#" >Overall Team</a>
+								<li><a id="leadership" class="btn btn-default active" href="#" data-filter=".leadership"	>Overall Team</a>
 								</li>
 							</ul>
 							<div class=" portfolio-items" style="z-index:1;">
 							<!--Team Members' details -->
-								<div class="col-xs-6 col-sm-4 col-md-4 portfolio-item ">
+								<div class="col-xs-6 col-sm-4 col-md-4 portfolio-item leadership">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/mansimarkaur.jpg" height="250" width="100%" alt="foto">
@@ -55,7 +55,7 @@
 										</div>
 									</div>
 								</div> 
-								<div class="col-xs-6 col-sm-4 col-md-4 portfolio-item ">
+								<div class="col-xs-6 col-sm-4 col-md-4 portfolio-item leadership">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/navdha.jpg" height="250" width="100%" alt="foto">
@@ -73,7 +73,7 @@
 										</div>
 									</div>
 								</div> 
-								<div class="col-xs-6 col-sm-4 col-md-4 portfolio-item ">
+								<div class="col-xs-6 col-sm-4 col-md-4 portfolio-item leadership">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/ayushgarg.jpg" height="250" width="100%" alt="foto">
