@@ -49,8 +49,8 @@
 								</li>
 							</ul>
 							<div class=" portfolio-items" style="z-index:1;">
-							<!-- Team Members' details -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership"> 
+							Team Members' details 
+								 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership"> 
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive " src="assets/img/team/sahil.jpg" height="250" width="100%" alt="foto">
@@ -67,8 +67,8 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership  ">
+								</div> 
+								<div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership  ">
 									<div class="staff">
 										<div class="staff__media"><img class="img-responsive" src="assets/img/team/tushar.jpg" height="auto" width="100%" alt="foto">
 											<div class="staff__hover">
@@ -83,9 +83,9 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
+								</div> 
 								
-								<!-- <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership contentw">
+								 <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership contentw">
 									<div class="portfolio-wrapper">
 										<div class="staff">
 											<div class="staff__media"><img class="img-responsive" src="assets/img/team/deepika.jpg" height="250" width="100%" alt="foto">
@@ -102,7 +102,7 @@
 											</div>
 										</div>
 									</div>
-								</div> -->
+								</div>
 								<!-- <div class="col-xs-6 col-sm-4 col-md-3 portfolio-item leadership webd ">
 									<div class="portfolio-wrapper">
 										<div class="staff">
@@ -1067,7 +1067,7 @@
 							</script>
 							<div id="myModal47" class="modal" style="z-index:100;">
 								<!-- Modal content -->
-								<!-- <div class="modal-content">
+								 <div class="modal-content">
 									<div class="modal-header"> <span class="close 47">×</span>
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/tushar.jpg" height="auto" width="100" alt="foto" align="middle">
 										<h2>Tushar Gupta</h2> </div>
@@ -1086,7 +1086,7 @@
 											</li>
 										</ul>
 									</div>
-								</div> -->
+								</div> 
 							</div>
 							<script>
 								var modal47 = document.getElementById('myModal47');
@@ -1111,7 +1111,7 @@
 							</script>
 							<div id="myModal46" class="modal" style="z-index:100;">
 								<!-- Modal content -->
-								<!-- <div class="modal-content">
+								 <div class="modal-content">
 									<div class="modal-header"> <span class="close 46">×</span>
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/apoorv.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Apoorv Gupta </h2> </div>
@@ -1133,7 +1133,7 @@
 											</li>
 										</ul>
 									</div>
-								</div> -->
+								</div> 
 							</div>
 							<script>
 								var modal46 = document.getElementById('myModal46');
@@ -1158,7 +1158,7 @@
 							</script>
 							<div id="myModal21" class="modal" style="z-index:100;">
 								<!-- Modal content -->
-								<!-- <div class="modal-content">
+								<div class="modal-content">
 									<div class="modal-header"> <span class="close 21">×</span>
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/shwetank.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Shwetank Pandey </h2> </div>
@@ -1180,7 +1180,7 @@
 											</li>
 										</ul>
 									</div>
-								</div> -->
+								</div>
 							</div>
 							<script>
 								var modal21 = document.getElementById('myModal21');
