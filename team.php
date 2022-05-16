@@ -100,12 +100,12 @@
 									<div class="modal-body">
 										<p><b>Back-end Developer</b>
 										</p>
-										<p>Founder and Lead Developer of CollegeSpace. Technology is my way of Life. I'm currently pursuing my undergraduate degree in Computer Science Engineering are my passion. I am an ardent follower of Hollywood. I did a 3 month internship at GitHub Externship.</p>
+										<p>Founder and Lead Developer of CollegeSpace. Technology is my way of Life. I'm currently pursuing my undergraduate degree in Computer Science Engineering at Sikkim Manipal Institute of Technology. I am an ardent follower of Hollywood. I did a 3 month internship at GitHub Externship.</p>
 									</div>
 									<div class="modal-footer">
 										<ul class="social-links list-unstyled">
 											<li>
-												<a class="icon fa fa-insta" target="_blank" href="https://www.instagram.com/rishiiii_99/"></a>
+												<a class="icon fa fa-instagram" target="_blank" href="https://www.instagram.com/rishiiii_99/"></a>
 											</li>
 											<li>
 												<a class="icon fa fa-linkedin" target="_blank" href="https://www.linkedin.com/in/rishabh-chauhan-rc/"></a>
@@ -184,7 +184,7 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/kaushal.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Kaushal Swami </h2> </div>
 									<div class="modal-body">
-										<p>Co-Founder and Developer of CollegeSpace. Technology is my way of Life. I'm currently pursuing my undergraduate degree in Computer Science Engineering are my passion. I am an ardent follower of Hollywood. I did a 1 month summer reseach internship at MAHE.</p>
+										<p>Co-Founder and Developer of CollegeSpace. Technology is my way of Life. I'm currently pursuing my undergraduate degree in Computer Science Engineering at Sikkim Manipal Institute of Technology. I am an ardent follower of Anime. I did a 1 month summer reseach internship at MAHE.</p>
 									</div>
 									<div class="modal-footer">
 										<ul class="social-links list-unstyled">
