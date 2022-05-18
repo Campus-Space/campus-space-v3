@@ -32,7 +32,7 @@
                                     </div>
                                     <div id="success" class="alert alert-success"> <strong>Success!</strong> Your message was sent successfully! </div>
                                     <div id="error" class="alert alert-danger"> <strong>Failed!</strong> Something went wrong, try refreshing and submitting the form again. </div>
-                                    <form id="contactForm" class="form-contact ui-form" action="mailto:kaushalswami7178@gmail.com" method="post">
+                                    <form id="contactForm" class="form-contact ui-form" action="formsend.php" method="post">
                                         <div class="row">
                                             <div class="col-md-6">
                                                 <input name="name" class="form-control" type="text" placeholder="Full Name" required> 
