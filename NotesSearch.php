@@ -35,7 +35,7 @@ function getNotesList($doc, $semNum) {
 	$paraDump = explode("<p align = 'justify'>", $semDump);
 	$aDump = explode("</p>", $paraDump[1])[0];
 	$alist = explode('</a>', $aDump);
-	print_r($alist);
+	//print_r($alist);
 	$list = array();
 	foreach($alist as $a) {
 		$a = trim($a);
@@ -45,7 +45,7 @@ function getNotesList($doc, $semNum) {
 			$link = explode("'", $ahref)[1];
 			$name = explode("<", explode(">", $ahref)[1])[0];
 			$list[$name] = $link;
-			$axml = new SimpleXMLElement($ahref);
+			//$axml = new SimpleXMLElement($ahref);
 		}
 	}
 	return $list;

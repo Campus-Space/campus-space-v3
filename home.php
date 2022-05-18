@@ -95,7 +95,7 @@
                                                     <?php  if(isset($_GET[ 'error'])) { ?>
                                                     <div class="alert alert-danger"> <strong>No query!</strong> Please type in a query to search. </div>
                                                         <?php }  ?> 
-                                                    <input class="form-control notesearch" type="text" name="query" placeholder="Keyword...">
+                                                    <!--<input class="form-control notesearch" type="text" name="query" placeholder="Keyword...">-->
                                                     <select name="branch" class="form-control notesearch"> 
                                                         <option value="cse">CSE</option>
                                                         <!--<option value="it">IT</option>

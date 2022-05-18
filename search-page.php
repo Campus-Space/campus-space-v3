@@ -2,7 +2,7 @@
 include("assets/functions.php");
 
 function getJsonDump() {
-	//$jsonDump = file_get_contents("http://updates.collegespace.in/wp-json/posts?filter[posts_per_page]=74");
+	$jsonDump = file_get_contents("http://updates.collegespace.in/wp-json/posts?filter[posts_per_page]=74");
 	return $jsonDump;
 }
 
