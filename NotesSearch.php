@@ -17,11 +17,11 @@ function getXMLData() {
 	if (isset($_GET["branch"])) $branch = $_GET["branch"];
 	else $branch = "cse"; //most students in ice, so most probable.
 	if ($branch == "cse") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_228_news_list.xml';
-	/*else if ($branch == "it") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_231_news_list.xml';
+	else if ($branch == "it") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_231_news_list.xml';
 	else if ($branch == "ece") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_229_news_list.xml';
-	else if ($branch == "ice") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_230_news_list.xml';
-	else if ($branch == "mpae") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_232_news_list.xml';
-	else if ($branch == "bt") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_233_news_list.xml';*/
+	else if ($branch == "ee") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_230_news_list.xml';
+	else if ($branch == "mech") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_232_news_list.xml';
+	else if ($branch == "civil") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_233_news_list.xml';
 	$doc = new DOMDocument();
 	$doc -> load($xmllink);
 	return $doc;
