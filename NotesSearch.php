@@ -15,7 +15,7 @@ function GetScore($content, $query, $scoreAddition = 10) {
 
 function getXMLData() {
 	if (isset($_GET["branch"])) $branch = $_GET["branch"];
-	else $branch = "cse"; //most students in ice, so most probable.
+	else $branch = "cse";
 	if ($branch == "cse") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_228_news_list.xml';
 	else if ($branch == "it") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_231_news_list.xml';
 	else if ($branch == "ece") $xmllink = 'http://test.collegespace.in/pad-notes/flashmo_229_news_list.xml';
