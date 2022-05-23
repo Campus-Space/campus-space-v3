@@ -35,12 +35,8 @@
                     <section class="footer-section">
                         <h3 class="footer-title">QUICK LINKS</h3>
                         <ul class="footer-list list-unstyled">
-                            <li class="footer-list__item"><a class="footer-list__link" href="#" target="_blank">Notices</a></li>
-                            <li class="footer-list__item"><a class="footer-list__link" href="#" target="_blank">Datesheets</a></li>
                             <li class="footer-list__item"><a class="footer-list__link" href="https://results.inginer.me/" target="_blank">Results</a></li>
                             <li class="footer-list__item"><a class="footer-list__link" href="https://ecm.smtech.in/ecm/" target="_blank">eCM</a></li>
-                            <li class="footer-list__item"><a class="footer-list__link" href="#" target="_blank">Disclaimer</a></li>
-                            <li class="footer-list__item"><a class="footer-list__link" href="#" target="_blank">Copyright</a></li>
 			</ul>
                     </section>
                 <!-- end footer-section -->
