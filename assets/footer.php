@@ -34,9 +34,10 @@
 		<div class="col-lg-3 col-sm-3 col-sm-offset-1">
                     <section class="footer-section">
                         <h3 class="footer-title">QUICK LINKS</h3>
-                        <ul class="footer-list list-unstyled">
+                        <ul class="footer-list list-unstyled"> 
                             <li class="footer-list__item"><a class="footer-list__link" href="https://results.inginer.me/" target="_blank">Results</a></li>
                             <li class="footer-list__item"><a class="footer-list__link" href="https://ecm.smtech.in/ecm/" target="_blank">eCM</a></li>
+                            <li class="footer-list__item"><a class="footer-list__link" href="https://smu.edu.in/smit.html/" target="_blank">SMIT</a></li>
 			</ul>
                     </section>
                 <!-- end footer-section -->
