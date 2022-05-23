@@ -100,7 +100,7 @@
 									<div class="modal-body">
 										<p><b>Back-end Developer</b>
 										</p>
-										<p>Founder and Lead Developer of CollegeSpace. Technology is my way of Life. I'm currently pursuing my undergraduate degree in Computer Science Engineering at Sikkim Manipal Institute of Technology. I am an ardent follower of Hollywood. I did a 3 month internship at GitHub Externship.</p>
+										<p>Dreamer 💭 | Learner 📚 | Enthusiast 👨‍💻 <br>Future Engineer-cum-Entrepreneur, and a lifelong learner. I like to solve problems in creative ways.<br>I am interested in ( Web Development & Data Science ) and am seeking exciting opportunities related to the same. <br>Being an Army Brat, I have repeatedly been exposed to new cultures and diverse groups of people. This has made me able to quickly adapt to changes and gain a broader perspective in life.</p>
 									</div>
 									<div class="modal-footer">
 										<ul class="social-links list-unstyled">
@@ -142,7 +142,9 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/saifus.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Syed Saifus Zoha </h2> </div>
 									<div class="modal-body">
-										<p><b>Content Collector</b> </p>
+									<p><b>Content Collector</b>
+										</p>
+										<p><b>An avid enthusiast of tech, I can code, then carry on with running, trekking or even off-roading. <br>I also keep my interest in visual storytelling. Learning through life :)</b> </p>
 									</div>
 									<div class="modal-footer">
 										<ul class="social-links list-unstyled">
@@ -184,7 +186,9 @@
 										<div class="img"></div><img class="img-responsive" src="assets/img/team/kaushal.jpg" height="100" width="100" alt="foto" align="middle">
 										<h2> Kaushal Swami </h2> </div>
 									<div class="modal-body">
-										<p>Co-Founder and Developer of CollegeSpace. Technology is my way of Life. I'm currently pursuing my undergraduate degree in Computer Science Engineering at Sikkim Manipal Institute of Technology. I am an ardent follower of Anime. I did a 1 month summer reseach internship at MAHE.</p>
+									<p><b>Front-end Developer</b>
+										</p>
+										<p>Co-Founder and Developer of CollegeSpace.<br> I'm currently pursuing my undergraduate degree in Computer Science Engineering at Sikkim Manipal Institute of Technology. <br>I am an ardent follower of Anime. I did a 1 month summer reseach internship at MAHE.</p>
 									</div>
 									<div class="modal-footer">
 										<ul class="social-links list-unstyled">
