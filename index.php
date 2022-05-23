@@ -3,7 +3,7 @@
 <html lang="en">
     <head>
         <link rel="icon" href="assets/img/logo_1.png">
-        <link rel="text/css" href="index.css">
+        <link rel="text/css" href="/campus-space-v2/index.css">
     </head>
     
     <body>
